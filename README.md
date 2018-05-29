@@ -5,7 +5,7 @@ Everytime you'll connect to the internet the sound of a modem that is dialing-up
 Beware of nostalgic feels
 
 ## INSTALL
-1. Put the oldschool.py in a startup crontab
+1. Put the `oldschool.py` in a startup crontab
 2. Enjoy
 
 ## WARNING
